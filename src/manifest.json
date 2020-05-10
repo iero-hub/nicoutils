@@ -2,7 +2,7 @@
   "name": "NiconicoPremiumLinkKiller",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Sample Chrome Extension",
+  "description": "Chrome Extension to delete premium link on seek bar.",
   "content_scripts": [{
     "matches": ["https://nicovideo.jp/watch/*"],
     "js": [
